@@ -1,9 +1,10 @@
 from copy import deepcopy
 import numpy as np
 
-# Rows and columns
 elements = []
 rows_columns_squares = []
+
+# add new comment for the bantzzz
 
 for i in range(0, 9):
     row = []
